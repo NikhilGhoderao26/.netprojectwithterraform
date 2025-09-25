@@ -3,7 +3,7 @@ name: Build, test & deploy .NET to Azure Web App
 on:
  push:
   branches:
-    - main
+    - master
 env:
   AZURE_WEBAPP_NAME: "HelloWorldApp"
 jobs:
