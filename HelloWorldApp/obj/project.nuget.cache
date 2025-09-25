@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "80ibwN2lspTIbfLstt/DAAUFjbdgfoDoTPPhTwo6ozDXUT5gNgTL0FcEHjuzU6I0ZHm+F3lzeyqxX6nw5m3OFg==",
+  "dgSpecHash": "D7WqsiQwx5JlCLYyOEmzoGJ44P2swEAUVVC4/AabTBvU4iQRBuSLsoIKa2WIjmUMRBJ+sy9bTUIunkfa9fkgug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nikhil\\source\\repos\\.netproject\\HelloWorldApp\\HelloWorldApp.csproj",
+  "projectFilePath": "C:\\Users\\Nikhil\\source\\repos\\.net\\HelloWorldApp\\HelloWorldApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
